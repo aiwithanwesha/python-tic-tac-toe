@@ -18,9 +18,11 @@ A modern Tic-Tac-Toe game built using Python and Tkinter.
 ```bash
 python tic_tac_toe.py
 ```
+## 📷 Preview
 
-## 📸 Preview
-![Game Screenshot](screenshots/game_1.png)
-![Game Screenshot](screenshots/game_2.png)
-![Game Screenshot](screenshots/game_3.png)
-![Game Screenshot](screenshots/game_4.png)
+<p align="center">
+  <img src="game_1.png" width="400" />
+  <img src="game_2.png" width="400" />
+  <img src="game_3.png" width="400" />
+  <img src="game_4.png" width="400" />
+</p>
