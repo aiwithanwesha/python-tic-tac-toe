@@ -7,6 +7,7 @@ class TicTacToe:
     def __init__(self, root):
         self.root = root
         self.root.title("TIC-TAC-TOE GAME")
+        self.root.title("Made by ANWESHA SANTRA")
         self.root.resizable(False, False)
         self.root.configure(bg="#1e1e24")
         #self.root.iconbitmap("icon.ico")
